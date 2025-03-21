@@ -1,0 +1,1 @@
+![Slider](./assets/Animation.gif)
